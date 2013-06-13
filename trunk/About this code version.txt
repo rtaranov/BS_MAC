@@ -1,0 +1,22 @@
+State machine is implemented for Master till Master_Send_Data state.
+Problem with I2C, can't be read and transmitted value. Maybe stack?
+
+2011.03.15
+Node Functions and state implementation started 
+Should finish network buffer reparser determineInitSlotNodeSlot() function
+
+2011.03.23
+Sdelani sostojanija NODE: N_INIT_TO_NET, N_IF_I_IN_NET
+Napisana funkcija: checkIfNodeIsInNet()
+Dobavlen novij funkcional v funkciju: processReceivedBuffer() - obrabotka sostojanija N_IF_I_IN_NET
+Dobavitj: Determine current node slot Number
+          Obrabotka inicializacionnih paketov masterom
+
+2011.03.31
+Zakon4en pervij etap napisanija protokola.
+Podklju4aju dat4ik vlaznosti.
+Na4inaju testirovanie: proverka rabotosposobnosti s tremja uzlami.
+
+2011.12.29
+Peredelal ISR tajmera. Teperj ISR vizivaetsja 16 raz v sekundu. Vmesto 160. :)
+Uveli4enie skorosti proishodit dostato4no prosto.

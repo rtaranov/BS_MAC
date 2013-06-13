@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3976562177</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\dlib\ysizet.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_external\mrfi_board.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ycheck.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\mcus\bsp_msp430_defs.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_external\mrfi_board_defs.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_board.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\string.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\family1\mrfi_spi.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\code\bsp_buttons.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\family1\mrfi_radio.c</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\common\mrfi_f1f2.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_button_defs.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\code\bsp_generic_buttons.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_driver_defs.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\txrx_chat.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\txrx_chat.pbi</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\code\bsp_leds.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\bsp_leds.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\common\mrfi_f1f2.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mrfi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\txrx_chat.r43</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\bsp_buttons.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mrfi.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.r43</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\family1\mrfi_spi.c</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F2274.xcl</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_board_defs.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x22x4.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\txrx_chat.pbd</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_config.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_drivers.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\smartrf\CC2500\smartrf_CC2500.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\code\bsp_generic_leds.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_led_defs.h</file>
+      <file>$TOOLKIT_DIR$\inc\io430.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$PROJ_DIR$\..\c_files\txrx_chat.c</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\bsp.c</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\bsp.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\bsp_macros.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\mrfi.c</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\mrfi.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\mrfi_defs.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Product.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\txrx_chat.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 34 30 29 27 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\txrx_chat.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 7 26 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\c_files\txrx_chat.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 50 35 3 23 5 38 51 53 54 24 45 43</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 9 50 35 3 23 36 31 5 38 51 53 54 24 45 43</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\drivers\bsp\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50 35 3 23 5 38 51 17</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 50 35 3 23 36 31 5 38 51 17 6 39 24 45 43 28 15 16 21 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\drivers\mrfi\mrfi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 50 35 3 23 5 38 51 24 45 43 12 8 2 22 40 55 18 44 0 53 4 9 25 41 33 13 1</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 54 50 35 3 23 36 31 5 38 51 24 45 43 12 8 2 22 40 42 55 18 44 0 53 4 9 25 41 33 13 1</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

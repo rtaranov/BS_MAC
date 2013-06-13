@@ -1,0 +1,117 @@
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[CodeCoverage]
+Enabled=_ 0
+[State Storage]
+Control Register=33354
+[Sequencer]
+Control Register=33354
+NextState0=33354
+NextState1=33354
+[Action Register]
+Break=2
+State Storage=1
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=1
+ByteLimit=300
+[DebugChecksum]
+Checksum=-620826314
+[RegisterFilter]
+FilePath=_ ""
+UseFilter=_ 0
+[InstructionProfiling]
+Enabled=_ 0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[watch_formats]
+Fmt0={W}0:(char)~MASTER_PROBE_SET_PIN_MASK	1	0
+Fmt1={W}0:MASTER_PROBE_SET_PORT	1	0
+Fmt2={W}0:MASTER_PROBE_TEST_PORT	1	0
+Fmt3={W}0:P2DIR	1	0
+Fmt4={W}0:P2IN	1	0
+Fmt5={W}0:P2OUT	1	0
+Fmt6={W}0:P2REN	1	0
+Fmt7={W}0:P3DIR	1	0
+Fmt8={W}0:P3IN	1	0
+Fmt9={W}0:P3OUT	1	0
+Fmt10={W}0:P4OUT	1	0
+Fmt11={W}0:mainState	3	0
+Fmt12={W}0:o	3	0
+Fmt13={W}0:secondsWhileProbing	3	0
+Fmt14={W}0:~MASTER_PROBE_SET_PIN_MASK	1	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\2011.03.12\c_files\txrx_simple.c}.106.5@1" 0 0 0 0 "" 0 ""
+Count=1
+[FET]
+Clock mode=38
+Extended Clock mode=-1
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=0
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Aliases]
+A0=_ "E:\Study\Doktorantura\Projects\HWSN\Code\SN\2011.12.14\c_files\txrx_simple.c" ""
+Count=1
+SuppressDialog=1

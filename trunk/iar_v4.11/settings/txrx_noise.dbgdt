@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>723</ColumnWidth1><ColumnWidth2>193</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>174</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+    <Find-in-Files><ColumnWidth0>492</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><StateStorageDialog><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></StateStorageDialog><StateStorage><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><NumberOfColumns>6</NumberOfColumns><ColumnWith0>80</ColumnWith0><ColumnWith1>90</ColumnWith1><ColumnWith2>130</ColumnWith2><ColumnWith3>75</ColumnWith3><ColumnWith4>100</ColumnWith4><ColumnWith5>200</ColumnWith5><AutomaticUpdate>0</AutomaticUpdate><AutomaticRestart>0</AutomaticRestart></StateStorage><Watch><Format><struct_types/><watch_formats/></Format><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch><CallStack><ViewArgs>1</ViewArgs></CallStack></Static>
+    <Windows>
+      
+      
+      
+    <Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3561-14321</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-3039-14331</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-24763-14176</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14310-14324</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>txrx_noise</ExpandedNode><ExpandedNode>txrx_noise/Application</ExpandedNode><ExpandedNode>txrx_noise/Components</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd7>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25058-14327</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd7><Wnd8><Tabs><Tab><Identity>TabID-23991-22788</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>TBR</Expression></Expression><Expression><Expression>TBCTL</Expression></Expression><Expression><Expression>TBCCR0</Expression></Expression><Expression><Expression>TBCCTL0</Expression></Expression><Expression><Expression>BSP_TIMER_CLK_MHZ</Expression></Expression></Expressions><TabId>0</TabId><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd8><Wnd9><Tabs><Tab><Identity>TabID-926-22811</Identity><TabName>Call Stack</TabName><Factory>CallStack</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd9></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\I2C.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>589</SelStart><SelEnd>589</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\stringFun.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>152</SelStart><SelEnd>175</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_driver_defs.h</Filename><XPos>0</XPos><YPos>29</YPos><SelStart>2922</SelStart><SelEnd>2922</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_drivers.c</Filename><XPos>0</XPos><YPos>5</YPos><SelStart>3615</SelStart><SelEnd>3615</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\txrx_simple.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>34</SelStart><SelEnd>34</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\board.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>65</SelStart><SelEnd>65</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\Sensors.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>226</SelStart><SelEnd>226</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\I2C.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\bsp\bsp.c</Filename><XPos>0</XPos><YPos>52</YPos><SelStart>4270</SelStart><SelEnd>4270</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_board_defs.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>3867</SelStart><SelEnd>3867</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_board.c</Filename><XPos>0</XPos><YPos>83</YPos><SelStart>3917</SelStart><SelEnd>3917</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\txrx_noise.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>189</SelStart><SelEnd>200</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_config.h</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>5305</SelStart><SelEnd>5316</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 6.0\430\inc\MSP430F2274.h</Filename><XPos>0</XPos><YPos>304</YPos><SelStart>13535</SelStart><SelEnd>13535</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\bsp\bsp.h</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>5956</SelStart><SelEnd>5956</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\board.c</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>2587</SelStart><SelEnd>2587</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\stringFun.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>857</SelStart><SelEnd>857</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\2011.12.08\drivers\bsp\boards\EZ430RF\bsp_board.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>3961</SelStart><SelEnd>3961</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\Sensors.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\mrfi\mrfi.h</Filename><XPos>0</XPos><YPos>93</YPos><SelStart>5645</SelStart><SelEnd>5645</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\mrfi\radios\family1\mrfi_radio.c</Filename><XPos>0</XPos><YPos>333</YPos><SelStart>15640</SelStart><SelEnd>15640</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\2011.12.29\c_files\txrx_simple.c</Filename><XPos>0</XPos><YPos>721</YPos><SelStart>18994</SelStart><SelEnd>18994</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\drivers\mrfi\smartrf\CC2500\smartrf_CC2500.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>741</SelStart><SelEnd>741</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\c_files\txrx_simple.c</Filename><XPos>0</XPos><YPos>223</YPos><SelStart>6029</SelStart><SelEnd>6033</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\2011.12.29\c_files\txrx_noise.c</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>1259</SelStart><SelEnd>1259</SelEnd></Tab><ActiveTab>24</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00d1aa28><key>iaridepm.enu1</key></Toolbar-00d1aa28></Sizes></Row0><Row1><Sizes><Toolbar-022bcdb0><key>debuggergui.enu1</key></Toolbar-022bcdb0></Sizes></Row1><Row2><Sizes><Toolbar-021b7408><key>430fet1</key></Toolbar-021b7408></Sizes></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14><Row15><Sizes/></Row15><Row16><Sizes/></Row16><Row17><Sizes/></Row17><Row18><Sizes/></Row18><Row19><Sizes/></Row19><Row20><Sizes/></Row20><Row21><Sizes/></Row21><Row22><Sizes/></Row22><Row23><Sizes/></Row23><Row24><Sizes/></Row24><Row25><Sizes/></Row25><Row26><Sizes/></Row26><Row27><Sizes/></Row27></Top><Left><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>586</Bottom><Right>248</Right><x>-2</x><y>-2</y><xscreen>250</xscreen><yscreen>272</yscreen><sizeHorzCX>195313</sizeHorzCX><sizeHorzCY>286920</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>620253</sizeVertCY></Rect></Wnd6></Sizes></Row0><Row1><Sizes><Wnd9><Rect><Top>-2</Top><Left>246</Left><Bottom>586</Bottom><Right>383</Right><x>246</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>210970</sizeHorzCY><sizeVertCX>107031</sizeVertCX><sizeVertCY>620253</sizeVertCY></Rect></Wnd9></Sizes></Row1></Left><Right><Row0><Sizes><Wnd7><Rect><Top>-2</Top><Left>-2</Left><Bottom>586</Bottom><Right>248</Right><x>-2</x><y>-2</y><xscreen>250</xscreen><yscreen>272</yscreen><sizeHorzCX>195313</sizeHorzCX><sizeHorzCY>286920</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>620253</sizeVertCY></Rect></Wnd7></Sizes></Row0><Row1><Sizes><Wnd8><Rect><Top>-2</Top><Left>246</Left><Bottom>586</Bottom><Right>446</Right><x>246</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>210970</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>620253</sizeVertCY></Rect></Wnd8></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>270</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>272</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>286920</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>286920</sizeVertCY></Rect></Wnd5></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

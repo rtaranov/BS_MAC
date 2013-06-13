@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2711646060</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\c_files\txrx_probability.c</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\bsp.c</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\bsp.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\bsp_macros.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\mrfi.c</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\mrfi.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\mrfi_defs.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\common\mrfi_f1f2.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\txrx_probability.r43</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\family1\mrfi_spi.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\txrx_probability.pbd</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\family1\mrfi_spi.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\mcus\bsp_msp430_defs.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.r43</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\code\bsp_generic_leds.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.pbi</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_config.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_driver_defs.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mrfi.pbi</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\common\mrfi_f1f2.c</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_led_defs.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\txrx_probability.d43</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_external\mrfi_board.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\mrfi.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\txrx_probability.pbi</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_board_defs.h</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\drivers\bsp_leds.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\radios\family1\mrfi_radio.c</file>
+      <file>$PROJ_DIR$\..\drivers\bsp\boards\EZ430RF\bsp_external\mrfi_board_defs.h</file>
+      <file>$PROJ_DIR$\..\drivers\mrfi\smartrf\CC2500\smartrf_CC2500.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\c_files\txrx_probability.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 2 25 12 16 3 6 26 20 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\drivers\bsp\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 25 12 16 3 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\drivers\mrfi\mrfi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 2 25 12 16 3 26 20 14 27 5 28 11 7 29 9 19 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\txrx_probability.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 15 18 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>End Device/Debug</Project><Project>Access Point/Debug</Project></CurrentConfigs><CurrentProj>Access Point</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>246</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>723</ColumnWidth1><ColumnWidth2>193</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build><TerminalIO/></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30180-8814</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>Access Point</ExpandedNode><ExpandedNode>End Device</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-27218-26792</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Texas Instruments\SimpliciTI-1.0.6\Documents\lab_ezwsn\ti_demo\demo_AP.c</Filename><XPos>0</XPos><YPos>109</YPos><SelStart>5388</SelStart><SelEnd>5388</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Texas Instruments\SimpliciTI-1.0.6\Documents\lab_ezwsn\ti_demo\demo_ED.c</Filename><XPos>0</XPos><YPos>205</YPos><SelStart>7672</SelStart><SelEnd>7672</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Thomas\Documents\Papers\lab_ezwsn\ti_demo\Components\simpliciti\nwk\nwk_globals.c</Filename><XPos>0</XPos><YPos>111</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\Thomas\Documents\Papers\lab_ezwsn\ti_demo\Components\simpliciti\nwk\nwk_globals.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0151e320><key>iaridepm.enu1</key></Toolbar-0151e320></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>455</Bottom><Right>320</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>195313</sizeHorzCX><sizeHorzCY>286533</sizeHorzCY><sizeVertCX>314453</sizeVertCX><sizeVertCY>654728</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1026</Right><x>-2</x><y>-2</y><xscreen>1028</xscreen><yscreen>200</yscreen><sizeHorzCX>1003906</sizeHorzCX><sizeHorzCY>286533</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>286533</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
